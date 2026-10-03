@@ -1,0 +1,44 @@
+.course-card {
+  background-color: white;
+  border-radius: 0.75rem;
+  padding: 1.75rem;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+}
+
+.course-icon {
+  font-size: 1.75rem;
+  display: block;
+  margin-bottom: 1rem;
+}
+
+.course-card h3 {
+  color: #0a0e1a;
+  margin-bottom: 0.5rem;
+}
+
+.course-card p {
+  color: #6b7280;
+  font-size: 0.9rem;
+  margin-bottom: 1.25rem;
+}
+
+.course-badge {
+  display: inline-block;
+  padding: 0.3rem 0.9rem;
+  border-radius: 1rem;
+  font-size: 0.8rem;
+  font-weight: bold;
+  color: white;
+}
+
+.badge-principiante {
+  background-color: #ec4867;
+}
+
+.badge-intermedio {
+  background-color: #ec4867;
+}
+
+.badge-avanzado {
+  background-color: #ec4867;
+}

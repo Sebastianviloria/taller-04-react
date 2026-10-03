@@ -1,0 +1,15 @@
+.footer {
+  background-color: #05070d;
+  text-align: center;
+  padding: 1.5rem;
+}
+
+.footer p {
+  color: #6b7280;
+  font-size: 0.85rem;
+}
+
+.footer-brand {
+  color: #ec4867;
+  font-weight: bold;
+}

@@ -1,0 +1,13 @@
+.nosotros {
+  min-height: 60vh;
+  padding: 80px 20px;
+  text-align: center;
+  background: #f8f9fa;
+  color: #1a1a2e;
+}
+
+.nosotros p {
+  max-width: 600px;
+  margin: 20px auto 0;
+  line-height: 1.6;
+}
